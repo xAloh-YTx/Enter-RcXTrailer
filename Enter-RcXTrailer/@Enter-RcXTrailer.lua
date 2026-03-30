@@ -44,7 +44,7 @@ K = gg.choice({
 	"Entrar RC [" .. md[md[2]][1] .. "]";
 	"Entrar Trailer [" .. md[md[3]][1] .. "]";
 	"Salir";
-}, 0)
+},0)
 if K then
 T = K == 1 and Cam or T
 T = K == 2 and Rc or T
