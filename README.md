@@ -1,6 +1,6 @@
 # Payback²: The Battle Sandbox | Enter RC And Truck trailer
 GameGuardian Lua Script made for Payback². Creator: Aloh<br><br>
-You can watch the demo [here](https://youtu.be/Z8RBdDT9pAE).
+You can watch the demo [here](https://youtu.be/43Mq7pu7_yM).
 
 ## Details
 - Gives you the ability to enter the Remote Controlled Car and the Truck trailer. (normally blocked due to game design) 🤑
